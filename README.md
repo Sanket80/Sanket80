@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanket Kadam</h1>
 <h3 align="center">Skilled in Flutter Development, UI/UX Design, Cross-Platform App Development, and Intuitive Design Solutions</h3>
 
-<img alighn="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3ES6w3y-sgQSv4H3IMzovI&ust=1712472314452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiJq9D-rIUDFQAAAAAdAAAAABBx">
+<img align="right" alt="code" width="400" src="[DIRECT_IMAGE_URL_HERE](https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)">
+
 
 - 🔭 I’m currently working on **App Development**
 
