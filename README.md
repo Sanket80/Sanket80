@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanket Kadam</h1>
 <h3 align="center">Skilled in Flutter Development, UI/UX Design, Cross-Platform App Development, and Intuitive Design Solutions</h3>
 
+<img alighn="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3ES6w3y-sgQSv4H3IMzovI&ust=1712472314452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiJq9D-rIUDFQAAAAAdAAAAABBx">
+
 - 🔭 I’m currently working on **App Development**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
