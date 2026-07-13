@@ -1,35 +1,144 @@
 ![logo](https://github.com/Sanket80/Sanket80/blob/main/background.png)
 
 <h1 align="center">Hi 👋, I'm Sanket Kadam</h1>
-<h3 align="center">Skilled in Flutter Development, UI/UX Design, Cross-Platform App Development, and Intuitive Design Solutions</h3>
 
-<img align="right" alt="code" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<h3 align="center">
+Java Backend Developer | Spring Boot | Microservices | Kafka | REST APIs | PostgreSQL
+</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanket80)
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-- 🔭 I’m currently working on **App Development**
+![](https://komarev.com/ghpvc/?username=Sanket80)
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+## 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Competitive Programming**
+- 💼 Software Engineer with experience at **Western Union** and **Accenture**
+- 🔭 Currently building **Java Spring Boot Backend Applications**
+- 🌱 Learning **System Design, Distributed Systems & Cloud Technologies**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, Kafka, PostgreSQL, JWT, JPA**
+- ⚡ Interested in **FinTech, Distributed Systems, Backend Architecture & Scalable APIs**
+- 📫 Reach me at **sanketkadam1206@gmail.com**
 
-- 💬 Ask me about **Dart Programming, Flutter, Firebase Integration, State Management, Wireframing and Prototyping Tools, Version Control**
+---
 
-- 📫 How to reach me **sanketkadam1206@gmail.com**
+## 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanket kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket kadam" height="30" width="40" /></a>
-<a href="https://dribbble.com/sanket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sanket" height="30" width="40" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
+<a href="mailto:sanketkadam1206@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" height="35"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket80&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=D3D3D3" alt="sanket80" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket80&show_icons=true&locale=en&bg_color=000000&text_color=D3D3D3" alt="sanket80" /></p>
+### Languages
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket80&background=000000&stroke=D3D3D3&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=D3D3D3&dates=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3" alt="sanket80" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,sql"/>
+</p>
 
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
+</p>
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- REST APIs
+- Microservices
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+---
+
+### Testing & Security
+
+- JUnit
+- Mockito
+- JWT Authentication
+
+---
+
+### Cloud & Monitoring
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+- AWS CloudWatch
+- Dynatrace
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 StaySphere — Hotel Booking Platform
+
+- Spring Boot
+- PostgreSQL
+- JWT Authentication
+- Stripe Integration
+- Pessimistic Locking
+- Decorator Design Pattern
+- REST APIs
+
+---
+
+### 🤖 HireLink — AI Recruitment Platform
+
+- Next.js
+- Node.js
+- MongoDB
+- Gemini API
+
+---
+
+## 🏆 Achievements
+
+🏅 2nd Runner-Up — AlphaByte 1.0 National-Level Hackathon
+
+💯 Solved **350+ DSA Problems** across LeetCode and coding platforms
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanket80&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket80&layout=compact&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket80&theme=github-dark"/>
+
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Java Backend Development
+- Spring Boot
+- Microservices
+- Apache Kafka
+- System Design
+- Distributed Systems
+- PostgreSQL
+- Cloud & Monitoring
